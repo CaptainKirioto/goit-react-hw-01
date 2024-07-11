@@ -1,0 +1,7 @@
+.listWrap {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 25px;
+}
